@@ -1,6 +1,4 @@
-# Welcome to GitHub Desktop!
+# About Jason (me :))
+Dear recruiter, client, or friend,
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
-Jason
+My name is Jason Bondarchuk. I am a prospective software engineer from New York and I'm happy you came to check out my GitHub account!
